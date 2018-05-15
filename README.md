@@ -2,7 +2,7 @@
 It is my graduation project 
 <table>
     <tr>
-       <td>There are two parts of my project:</td>
+       <td>There are four parts of my project:</td>
     </tr>
     <tr>
        <td>1.read the Dataset of images into arrays and import them to the nerual networks.</td>
