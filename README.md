@@ -11,9 +11,9 @@ It is my graduation project
        <td>2.define the network by the functions of TensorFlow which can learn from the Dataset with labels.</td>
     </tr>
    <tr>
-       <td>3.Train the network to minimize the loss function and maxmize the test accuray.</td>
+       <td>3.Train the network to minimize the loss function and maxmize the test accuracy.</td>
     </tr>
   <tr>
-       <td>4.plot the chart of test accury and loss funciton.</td>
+       <td>4.plot the chart of test accuracy and loss funciton.</td>
     </tr>
 </table>
