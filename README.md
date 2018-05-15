@@ -1,4 +1,4 @@
-# anime-figures-recognition-on-deep-learning
+# anime-figures-recognition
 It is my graduation project 
 <table>
     <tr>
