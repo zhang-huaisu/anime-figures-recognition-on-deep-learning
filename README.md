@@ -1,5 +1,5 @@
 # anime-figures-recognition-on-deep-learning
-<h1>It is my graduation project</h1)
+It is my graduation project
 There are two parts of my project:
 1.read the Dataset of images into arrays and import them to the nerual networks.
 2.define the network by the functions of TensorFlow which can learn from the Dataset with labels.
